@@ -1,12 +1,12 @@
 
-Here is your final **README** for the **MERN Portfolio** project! 🎉 Let me know if you need any tweaks! 🚀  
-
 ---
 
 # **MERN Portfolio** ✅  
 
 ## 🚀 Introduction  
 Welcome to **MERN Portfolio**, a full-stack personal portfolio application built using the **MERN stack** but with **MySQL** instead of MongoDB! 🌟 This project showcases your skills, experience, projects, and more, all with a sleek and modern UI. 🚀  
+
+![Screenshot 2025-03-03 195601](https://github.com/user-attachments/assets/d5d6c7ad-ba84-4dfd-aa49-e4ca04be95b3) , ![Screenshot 2025-03-03 195613](https://github.com/user-attachments/assets/ee5b356e-c705-40e8-9cc6-353922d856ea) , ![Screenshot 2025-03-03 195637](https://github.com/user-attachments/assets/d3226f69-0e95-4490-8b2e-70cfe5c4ce5a) , ![Screenshot 2025-03-03 195625](https://github.com/user-attachments/assets/6700f460-db02-41c8-9022-e8d578637781) , ![Screenshot 2025-03-03 195657](https://github.com/user-attachments/assets/8f6b3094-8d48-4e9f-be6e-9cb6972aaa76)
 
 ## 🛠️ Technologies Used  
 
